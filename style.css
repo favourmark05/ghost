@@ -2,5 +2,13 @@
   display: none;
 }
 .bg{
-  background-color:grey;
+  /* background-color:grey; */
+  background-image:url(img/technology-background-1632715.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.text{
+  color: rgb(255, 255, 255);
+  font-weight: bolder !important;
+  font-size: 30px !important;
 }

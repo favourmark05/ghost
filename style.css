@@ -4,8 +4,9 @@
 .bg{
   /* background-color:grey; */
   background-image:url(img/technology-background-1632715.jpg);
+  height: 100vh;
   background-size: cover;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
 }
 .text{
   color: rgb(255, 255, 255);
